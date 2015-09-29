@@ -5,13 +5,21 @@ You can use it also as npm module.
 ```bash
 npm install ourairports --save
 ```
-Because of the size of files (see Data) you have to _install_ them yourself.
+Because of the size of files (see Data) you have to __install__ them yourself.
 ```bash
 cd ./node_modules/ourairports
 # to download all
 npm run gulp --
 # to download a specific file
 npm run gulp -- [name - like airports]
+```
+It is recommended that you insert the latter step in your project `package.json`
+```json
+{
+  "script": {
+    "install": "cd node_modules/ourairports && npm run gulp -- [name [name [...]]]"
+  }
+}
 ```
 
 #### Usage
