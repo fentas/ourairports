@@ -1,0 +1,36 @@
+{
+  "name": "ourairports",
+  "version": "0.1.0",
+  "description": "Find every airport in a country or region",
+  "repository": "https://github.com/fentas/ourairports",
+  "license": "Public Domain",
+  "dependencies": {
+    "csvtojson": "^0.4.3",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.5",
+    "request": "^2.64.0"
+  },
+  "author": {
+    "name": "Jan Guth",
+    "email": "jan.guth@gmail.com",
+    "url": "jan.guth.so"
+  },
+  "contributors": [
+    "David Megginson <contact@ourairports.com> (http://ourairports.com)"
+  ],
+  "keywords": [
+    "airports",
+    "countries",
+    "regions",
+    "frequencies",
+    "navaids",
+    "runways",
+    "data"
+  ],
+  "homepage": "http://ourairports.com/",
+  "devDependencies": {
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
