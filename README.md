@@ -52,5 +52,4 @@ http://ourairports.com/data/
 
 ### Credits
 Big thanks to David Megginson.
-Please considure to pay him a visit.
-http://ourairports.com/about.html#credits
+Please considure to pay him a [visit](http://ourairports.com/about.html#credits).
