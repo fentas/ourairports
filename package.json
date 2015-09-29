@@ -1,6 +1,6 @@
 {
   "name": "ourairports",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Find every airport in a country or region",
   "repository": "https://github.com/fentas/ourairports",
   "license": "AGPLv3",
@@ -31,6 +31,7 @@
   "devDependencies": {
   },
   "scripts": {
-    "gulp": "gulp"
+    "gulp": "gulp",
+    "install": "mkdir lib"
   }
 }
