@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Find every airport in a country or region",
   "repository": "https://github.com/fentas/ourairports",
-  "license": "Public Domain",
+  "license": "AGPLv3",
   "dependencies": {
     "csvtojson": "^0.4.3",
     "gulp": "^3.8.11",
