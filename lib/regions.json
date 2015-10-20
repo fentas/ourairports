@@ -1735,7 +1735,7 @@
 {"id":304429,"code":"KZ-ATY","local_code":"ATY","name":"Atyrau","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Atyrau","keywords":"Атырау облысы"},
 {"id":306378,"code":"KZ-BAY","local_code":"BAY","name":"Baikonur","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Baikonur","keywords":"Байқоңыр қаласы"},
 {"id":304430,"code":"KZ-KAR","local_code":"KAR","name":"Karagandy","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Karagandy","keywords":"Қарағанды облысы"},
-{"id":304431,"code":"KZ-KUS","local_code":"KUS","name":"Kostanay","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Kostanay","keywords":"Қостанай облысы"},
+{"id":304431,"code":"KZ-KUS","local_code":"KUS","name":"Kostanay","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Kostanay","keywords":"Қостанай облыс��"},
 {"id":304432,"code":"KZ-KZY","local_code":"KZY","name":"Kyzylorda","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Kyzylorda","keywords":"Қызылорда облысы"},
 {"id":304433,"code":"KZ-MAN","local_code":"MAN","name":"Mangystau","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Mangystau","keywords":"Маңғыстау облысы"},
 {"id":304434,"code":"KZ-PAV","local_code":"PAV","name":"Pavlodar","continent":"AS","iso_country":"KZ","wikipedia_link":"http://en.wikipedia.org/wiki/Pavlodar","keywords":"Павлодар облысы"},
